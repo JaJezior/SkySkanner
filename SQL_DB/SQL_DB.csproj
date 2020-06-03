@@ -15,3 +15,4 @@
   </ItemGroup>
 
 </Project>
+//To jest po prostu jakaś bieda. Nie mam pojęcia czemu nie byłem tego w stanie dokończyć. Zadania wydają się proste i wiem jak napisać testy, czy logikę aplikacji. EntityF. nie do końca rozumiem, nie za bardzo wiem jak zrobić tak, żeby działał, bo obecnego kodu nie uruchomiłem ani razu, bo nie wiedziałem, czy dam radę ogarnąć te migracje, czy i jak mam definiować model danych i ogólnie nawet nie wiem, czego jeszcze nie wiem, bo robię to totalnie na ślepo. Rozumiem tylko i aż tyle, co wytłumaczyłeś w czwartek. Same zapytania nie są żadną finezją, ale obsługi całości będę musiał się nauczyć od nowa. Ehh pisałem to wszystko z nadzieją, że to zadziała z SQL. Musiałem albo zdobyć wiedzę z EF Cora, albo pisać logikę, bo czasu było jak na lekarstwo. W rezultacie nie zrobiłem ani jednego, ani drugiego. 
